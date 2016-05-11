@@ -1,1 +1,1 @@
-# Arduino-Input-Reading-Example
+# Arduino - Input Reading Example
