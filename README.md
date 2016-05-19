@@ -2,7 +2,7 @@
 
 Dijitalden analoga dönüşüm yaparak voltaj okur.
 
-Gerekli Malzemeler :
+# Kullanılan Malzemeler :
 
 BreadBoard
 
