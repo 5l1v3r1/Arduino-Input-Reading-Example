@@ -5,5 +5,7 @@ Dijitalden analoga dönüşüm yaparak voltaj okur.
 Gerekli Malzemeler :
 
 BreadBoard
+
 Potansiyometre
-İki ucu erkek jumper kablo 
+
+İki ucu erkek jumper kablo
