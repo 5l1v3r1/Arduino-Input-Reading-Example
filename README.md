@@ -4,8 +4,10 @@ Dijitalden analoga dönüşüm yaparak voltaj okur.
 
 # Kullanılan Malzemeler :
 
-BreadBoard
+1 Adet Arduino
 
-Potansiyometre
+1 Adet BreadBoard
 
-İki ucu erkek jumper kablo
+1 Adet Potansiyometre
+
+3 Adet İki ucu erkek jumper kablo
